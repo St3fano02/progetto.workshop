@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main()
 {
-printf("hello I'm a contributor");
+printf("hello I'm a gay");
 }
