@@ -1,4 +1,4 @@
 int main()
 {
-printf("hello world")
+printf("hello, i'm a contributors")
 }
